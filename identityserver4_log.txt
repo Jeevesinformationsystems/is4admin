@@ -1,0 +1,11 @@
+2018-01-24 21:22:57.418 -05:00 [DBG] Using Identity.Application as default scheme for authentication
+2018-01-24 21:22:57.446 -05:00 [DBG] Using Identity.External as default scheme for sign-in
+2018-01-24 21:22:57.447 -05:00 [DBG] Using Identity.External as default scheme for sign-out
+2018-01-24 21:22:57.447 -05:00 [DBG] Using Identity.Application as default scheme for challenge
+2018-01-24 21:22:57.447 -05:00 [DBG] Using Identity.Application as default scheme for forbid
+2018-01-24 21:23:01.010 -05:00 [WRN] The 'bool' property 'UserEditable' on entity type 'IdentityExpressClaimType' is configured with a database-generated default. This default will always be used when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used when the property value is 'null'.
+2018-01-24 21:23:01.026 -05:00 [WRN] The 'bool' property 'IsBlocked' on entity type 'IdentityExpressUser' is configured with a database-generated default. This default will always be used when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used when the property value is 'null'.
+2018-01-24 21:23:01.030 -05:00 [WRN] The 'bool' property 'IsDeleted' on entity type 'IdentityExpressUser' is configured with a database-generated default. This default will always be used when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead so that the default will only be used when the property value is 'null'.
+2018-01-24 21:23:02.585 -05:00 [FTL] ****** Using non-production Community Edition ******
+2018-01-24 21:23:31.805 -05:00 [FTL] ****** Using non-production Community Edition ******
+2018-01-24 21:23:37.113 -05:00 [FTL] ****** Using non-production Community Edition ******
